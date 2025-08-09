@@ -1,5 +1,5 @@
 ## Hey, I'm Kai!
-💻 I'm super interested in coding, especially AI.
-✨ Excited about creative technology.
-📈 Want to undercut coorporations (Adobe, TurboTax, Amazon...) by making better, open-source software.
+💻 I'm super interested in coding, especially AI.<br/>
+✨ Excited about creative technology.<br/>
+📈 Want to undercut coorporations (Adobe, TurboTax, Amazon...) by making better, open-source software.<br/>
 ❤️ Common-good projects.
